@@ -1,5 +1,6 @@
-Originally made by https://github.com/moistp1ckle I then took it and fixed the remaining elements which were not following the GitHub color scheme.
+Originally made by https://github.com/moistp1ckle I then took it and fixed the remaining elements which were not following the GitHub color scheme. 
 Elements like, hover colors, tooltips, info cards, profiles and many others + some slight UI revamps and corner softening for a better look. Hope you enjoy!
+PS: It's a WIP so I'm still fixing stuff as time goes on. If you see anything funky hit me up on discord.
 
 
 ![1](https://github.com/user-attachments/assets/a053bc96-7528-4adc-979e-802c57ea5550)
