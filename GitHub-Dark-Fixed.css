@@ -899,13 +899,19 @@ input.input_f4e139 {
     background-color: #161b22;
 }
 
-.buttonsInner_d5deea.popover_e986d9.wrapper_f7e168:hover {
-    box-shadow: 1px 1px 3px 1px #ffffff11;
+.popoverReactionHoverBar_e986d9 {
+    box-shadow: 1px 1px 3px 1px #ffffff11 !important;
+    background-color: #0b0e13 !important;
+    border-radius: 4px;
 }
 
 .button_f7e168:hover {
     background-color: #1e242d;
     border-radius: 3px;
+}
+
+.message_d5deea:hover {
+    background-color: #0b0e13 !important;
 }
 
 .mentioned_d5deea {
@@ -1945,9 +1951,9 @@ span.button_adca65.enabled_adca65:hover {
     background-color: #1e242d;
 }
 
-.userPopoutOuter_c69a7b  .biteSizeInnerThemed_c69a7b {
+.biteSizeInnerThemed_c69a7b {
     background-color: #161b22;
-}
+} 
 
 .userProfileInner_c69a7b .themedBackground_d0696b {
     background-color: #1e242d;
@@ -1955,4 +1961,16 @@ span.button_adca65.enabled_adca65:hover {
 
 .vc-addon-card:hover {
     background-color: #1e242d;
+}
+
+.container_a3d172 .contentContainer_a3d172 .lookFilled_dd4f85 {
+    width: 100% !important;
+}
+
+.wrapper_ac01d6 .container_ac01d6 {
+    background-color: #161b22;
+}
+
+.wrapper_ac01d6 .ctaButton_ac01d6 {
+    background-color: #292f38;
 }
