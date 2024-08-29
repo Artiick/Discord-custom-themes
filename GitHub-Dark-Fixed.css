@@ -1952,3 +1952,7 @@ span.button_adca65.enabled_adca65:hover {
 .userProfileInner_c69a7b .themedBackground_d0696b {
     background-color: #1e242d;
 }
+
+.vc-addon-card:hover {
+    background-color: #1e242d;
+}
