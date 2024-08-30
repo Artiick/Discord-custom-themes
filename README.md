@@ -9,4 +9,4 @@ PS: It's a WIP so I'm still fixing stuff as time goes on. If you see anything fu
 
 ![3](https://github.com/user-attachments/assets/12f10c3e-9a6e-4cf8-bf7e-6739a5ceb455)
 
-![4](https://github.com/user-attachments/assets/a3fa7237-4433-45ec-8002-74390d23fdb7)
+![4](https://github.com/user-attachments/assets/e433b573-b407-4d1b-8a20-51da80413b00)
