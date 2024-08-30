@@ -5,3 +5,5 @@ PS: It's a WIP so I'm still fixing stuff as time goes on. If you see anything fu
 
 ![1](https://github.com/user-attachments/assets/a053bc96-7528-4adc-979e-802c57ea5550)
 ![2](https://github.com/user-attachments/assets/3ae27599-7cd2-416d-8c85-b34f2cd13669)
+![3](https://github.com/user-attachments/assets/12f10c3e-9a6e-4cf8-bf7e-6739a5ceb455)
+![4](https://github.com/user-attachments/assets/7cef55f2-d216-4e9e-a544-d3c00bc8c016)
